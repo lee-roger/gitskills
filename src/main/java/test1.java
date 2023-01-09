@@ -8,5 +8,6 @@ public class test1 {
         System.out.println("测试文件");
         System.out.println("第三次修改");
         System.out.println("热修改");
+        System.out.println("push test");
     }
 }
