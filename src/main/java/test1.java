@@ -5,5 +5,6 @@ public class test1 {
         char c = '1';
         int a = c-'1';
         System.out.println(a);
+        System.out.println("²âÊÔÎÄ¼ş");
     }
 }
